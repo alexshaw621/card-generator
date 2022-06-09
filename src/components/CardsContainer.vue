@@ -27,7 +27,7 @@ export default {
 </script>
 
 <template>
-  <div class="container mx-auto">
+  <div class="container mx-auto mt-10 md:mt-20">
     <h1 class="text-center md:text-left">Card Generator</h1>
     <form
       class="bg-white flex flex-col md:flex-row items-start md:items-center"
